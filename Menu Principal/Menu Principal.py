@@ -42,7 +42,7 @@ def afficher_menu():
             print("Au revoir !")
             break
         else:
-            print("Choix erroné !")
+            print("Choix erroné !|")
 
 
 # ---------- EXECUTION ----------
