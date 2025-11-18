@@ -8,3 +8,4 @@ class Adherent:
         if self.email:
             return self.prenom + " " + self.nom + " (" + self.email + ")"
         return self.prenom + " " + self.nom
+print("hello")
